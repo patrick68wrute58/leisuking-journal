@@ -1,2 +1,14 @@
 # leisuking-journal
-HTML page archive and documentation
+
+静态页面归档仓库
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
